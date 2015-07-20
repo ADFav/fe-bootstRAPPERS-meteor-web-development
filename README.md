@@ -23,3 +23,4 @@ Help reperezent for each coast using bootstrap to build a tab gallery that revea
 - [Grid System](http://getbootstrap.com/css/#grid)
 - [Components/Tabs](http://getbootstrap.com/components/#nav-tabs)
 - [JavaScript/Tabs](http://getbootstrap.com/javascript/#tabs)
+- [Bootstrap Carousel] (http://getbootstrap.com/examples/carousel/) 
