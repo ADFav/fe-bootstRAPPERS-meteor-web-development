@@ -1,0 +1,11 @@
+languages:
+  - html
+  - css
+  - javascript
+tags:
+  - bootsrap
+  - rappers
+  - frameworks
+type:
+  - lab
+resources: 3
