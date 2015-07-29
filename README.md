@@ -1,9 +1,4 @@
----
-languages: html, css, javascript
-tags: twitter, bootstrap, framework
-type: lab
-resources: 4
----
+
 
 ## bootstRAPPERS
 
