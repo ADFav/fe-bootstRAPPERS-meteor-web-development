@@ -19,4 +19,4 @@ Help reperezent for each coast using bootstrap to build a tab gallery that revea
 - [Bootstrap Tab](http://getbootstrap.com/javascript/#tabs)
 - [Bootstrap Carousel] (http://getbootstrap.com/examples/carousel/)
 
-<a href='https://learn.co/lessons/fe-bootstRAPPERS' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-bootstRAPPERS' title='bootstRAPPERS'>bootstRAPPERS</a> on Learn.co and start learning to code for free.</p>
